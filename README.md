@@ -8,14 +8,14 @@ ShanghaiTech Dataset: [Google Drive](https://drive.google.com/open?id=16dhJn7k4F
 ## Prerequisites
 We strongly recommend Anaconda as the environment.
 
-Python: 2.7
+Python: 3.8
 
-PyTorch: 0.4.0
+PyTorch: 1.7
 
-CUDA: 9.2
+CUDA: 10.1
 ## Ground Truth
 
-Please follow the `make_dataset.ipynb ` to generate the ground truth. It shall take some time to generate the dynamic ground truth. Note you need to generate your own json file.
+Please follow the `make_dataset.ipynb ` to generate the ground truth. It shall take some time to generate the dynamic ground truth. or you can generate your own json file.(such as train.json, val.json)
 
 ## Training Process
 
